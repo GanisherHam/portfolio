@@ -27,14 +27,13 @@ html, body {
     max-width: 1110px;
     width: 100%;
     margin: 0 auto;
-}   
-
+}
 
 ._title {
     font-size: 32px;
     line-height: 37px;
     text-align: center;
-    font-family: var(--RM); 
+    font-family: var(--RM);
 }
 
 ._description {
@@ -45,7 +44,6 @@ html, body {
 }
 
 /* HEADER START */
-
 
 .header__content {
     background: var(--bg);
@@ -120,9 +118,7 @@ html, body {
     margin: 60px 0;
 }
 
-
 /* HEADER END */
-
 
 /* MAIN START */
 
@@ -146,7 +142,6 @@ html, body {
     align-items: center;
     text-align: center;
 }
-
 
 .main__footer {
     background: var(--blue);
@@ -215,6 +210,7 @@ html, body {
     text-align: left;
     margin-bottom: 50px;
 }
+
 .main__top-description {
     position: relative;
 }
@@ -592,7 +588,7 @@ html, body {
     .main__top-description {
         margin-top: 10px;
     }
-    
+
     .main__top-description::after{
         margin-top: 10px;
     }
