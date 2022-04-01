@@ -151,7 +151,8 @@ html, body {
 
 .design {
     display: flex;
-    justify-content: space-between;
+    gap: 10%;
+    justify-content: center;
     align-items: center;
     flex-grow: 1;
     background: var(--bg);
